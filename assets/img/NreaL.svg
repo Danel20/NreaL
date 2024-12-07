@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="matrix(1.4823272,0,0,1.4823272,24.495347,-6.2341319)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:3;paint-order:markers stroke fill"
+       x="34.333355"
+       y="98.58139"
+       id="text1"><tspan
+         id="tspan1"
+         x="34.333355"
+         y="98.58139">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:3;paint-order:markers stroke fill"
+       x="18.750029"
+       y="110.26938"
+       id="text2"><tspan
+         id="tspan2"
+         x="18.750029"
+         y="110.26938">L</tspan></text>
+    <g
+       id="g3"
+       transform="rotate(-15,-23.589451,-63.647177)">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:3;paint-order:markers stroke fill"
+         id="rect1"
+         width="30"
+         height="0.5"
+         x="-37.821083"
+         y="-43.362953"
+         transform="rotate(-135)" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:3;paint-order:markers stroke fill"
+         id="rect2"
+         width="20"
+         height="0.5"
+         x="-25.398882"
+         y="-51.622437"
+         transform="rotate(-150)" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:3;paint-order:markers stroke fill"
+         id="rect3"
+         width="40"
+         height="0.5"
+         x="-47.71579"
+         y="-32.165394"
+         transform="rotate(-120)" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:3;paint-order:markers stroke fill"
+         id="rect4"
+         width="30"
+         height="0.5"
+         x="-54.402"
+         y="-18.767878"
+         transform="rotate(-105)" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:3;paint-order:markers stroke fill"
+         id="rect5"
+         width="20"
+         height="0.5"
+         x="-57.405781"
+         y="-4.0651407"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>
